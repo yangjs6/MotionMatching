@@ -1,6 +1,9 @@
 # MotionMatching
-将 orangeduck 的 Motion-Matching 的 c++ 代码包装成 dll 库给 c# ，并重定向驱动 CC 角色
+将 orangeduck 的 Motion-Matching 的 c++ 代码包装成 dll 库给 c# ，并在 unity 中重定向驱动 CC 角色
 
+
+参考项目： https://github.com/orangeduck/Motion-Matching
+参考文章：https://theorangeduck.com/page/code-vs-data-driven-displacement
 
 
 ![image](https://github.com/yangjs6/MotionMatching/assets/16881218/b26ffb5a-fa36-4dc6-b272-44de3a136490)
